@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Manchester United latest news">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News | Manchester United</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <nav class="navbar">
+    <h1>Manchester United</h1>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="news.html">News</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main class="content">
+  <h2>Manchester United Held to Thrilling 4–4 Draw Against Bournemouth</h2>
+  <p>
+    Manchester United were involved in an exciting 4–4 draw against Bournemouth in a dramatic
+    Premier League encounter. The match showcased United’s attacking strength and resilience.
+  </p>
+  <p>
+    The goals for Manchester United were scored by <strong>Amad Diallo</strong>, <strong>Casemiro</strong>,
+    <strong>Bruno Fernandes</strong>, and <strong>Matheus Cunha</strong>. Each goal played a crucial role
+    in keeping United in the game during an intense contest.
+  </p>
+  <p>
+    Despite not securing all three points, the performance highlighted the team’s fighting spirit
+    and attacking depth as they continue their campaign.
+  </p>
+</main>
+
+<footer>
+  <p>© 2025 Manchester United Fan Website</p>
+</footer>
+
+</body>
+</html>

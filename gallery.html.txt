@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Manchester United gallery">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gallery | Manchester United</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <nav class="navbar">
+    <h1>Manchester United</h1>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="news.html">News</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main class="content">
+  <h2>Gallery</h2>
+  <section class="gallery">
+    <img src="images/team.jpg" alt="Manchester United Team">
+    <img src="images/amad.jpg" alt="Amad Diallo">
+    <img src="images/bruno.jpg" alt="Bruno Fernandes">
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 Manchester United Fan Website</p>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>

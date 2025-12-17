@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="About Manchester United Football Club">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About | Manchester United</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <nav class="navbar">
+    <h1>Manchester United</h1>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="news.html">News</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main class="content">
+  <h2>About the Club</h2>
+  <p>
+    Manchester United Football Club was founded in 1878 and is based in Old Trafford, England.
+    The club is known for its rich history, legendary players, and passionate supporters worldwide.
+  </p>
+  <p>
+    Manchester United has won numerous domestic and international trophies and is famous for its
+    attacking football and strong youth academy.
+  </p>
+</main>
+
+<footer>
+  <p>© 2025 Manchester United Fan Website</p>
+</footer>
+
+</body>
+</html>
