@@ -1,4 +1,3 @@
-// Image Gallery
 const images = document.querySelectorAll(".gallery img");
 images.forEach(img => {
   img.addEventListener("click", () => {
@@ -6,7 +5,6 @@ images.forEach(img => {
   });
 });
 
-// Contact Form Validation
 const form = document.getElementById("contactForm");
 if (form) {
   form.addEventListener("submit", function(e) {
@@ -14,3 +12,4 @@ if (form) {
     alert("Thank you for your message!");
   });
 }
+
